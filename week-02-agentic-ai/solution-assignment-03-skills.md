@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/assingment03_screenshot01.PNG) 
 
 ---
 
@@ -34,13 +34,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
+![Screenshot 2](./screenshots/assingment03_screenshot02.PNG) 
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![Screenshot 3](./screenshots/assingment03_screenshot03.PNG) 
 
 ---
 
@@ -54,13 +54,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+![Screenshot 4](./screenshots/assingment03_screenshot04.PNG) 
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![Screenshot 5](./screenshots/assingment03_screenshot05.PNG) 
 
 ---
 
@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![Screenshot 6](./screenshots/assingment03_screenshot06.PNG) 
 
 ---
 
@@ -90,27 +90,27 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7481369088477372417-zDs8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/skills/` folder created with all 4 skill folders
-- [ ] All skill files placed correctly
-- [ ] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
-- [ ] `/scaffold-terraform` executed successfully
-- [ ] Terraform files generated inside `terraform/` folder
-- [ ] `terraform init` executed successfully
-- [ ] `/tf-plan` executed and output analyzed by Claude
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [X] `.claude/skills/` folder created with all 4 skill folders
+- [X] All skill files placed correctly
+- [X] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
+- [X] `/scaffold-terraform` executed successfully
+- [X] Terraform files generated inside `terraform/` folder
+- [X] `terraform init` executed successfully
+- [X] `/tf-plan` executed and output analyzed by Claude
+- [X] All required screenshots added
+- [X] GitHub repository URL included
+- [X] LinkedIn post URL included
 
 ---
 

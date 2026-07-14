@@ -221,11 +221,11 @@ Not required for this assignment.
 ## 12. Completion Checklist
 
 Before submission, verify:
-- [ ] GitHub PAT created with correct scopes (`repo`, `read:user`)
-- [ ] `.mcp.json` at project root with GitHub server configured
-- [ ] `settings.local.json` has the token — token value blurred in screenshot
-- [ ] `settings.local.json` is gitignored and NOT committed
-- [ ] `/mcp` shows `github: connected`
-- [ ] Live GitHub query returned real repository data
-- [ ] `.mcp.json` committed and visible in GitHub repo
+- [X] GitHub PAT created with correct scopes (`repo`, `read:user`)
+- [X] `.mcp.json` at project root with GitHub server configured
+- [X] `settings.local.json` has the token — token value blurred in screenshot
+- [X] `settings.local.json` is gitignored and NOT committed
+- [X] `/mcp` shows `github: connected`
+- [X] Live GitHub query returned real repository data
+- [X] `.mcp.json` committed and visible in GitHub repo
 

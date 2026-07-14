@@ -222,13 +222,13 @@ Not required for this assignment.
 
 Before submission, verify:
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+[X] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[X] Screenshot 2 shows the auto-generated `/init` output <br>
+[X] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[X] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[X] Screenshot 5 shows Claude refusing the React request <br>
+[X] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[X] GitHub repository URL is included in the submission <br>
 
 ---
 
