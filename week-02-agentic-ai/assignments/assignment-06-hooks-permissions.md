@@ -529,7 +529,6 @@ Complete all tasks in sequence.
 
 Your submission must include:
 - All 9 required screenshots
-- Your GitHub repo URL (`settings.json` and hooks folder committed and visible)
 
 ---
 
@@ -550,19 +549,19 @@ Not required for this assignment.
 
 Before submission, verify:
 
-- [X] `.claude` folder structure created correctly
-- [X] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
-- [X] `pre-tool-guard.sh` created with PreToolUse hook logic
-- [X] `post-tool-logger.sh` created with PostToolUse logging logic
-- [X] `settings.json` created with allow and deny permissions
-- [X] `settings.json` configured to connect all three hooks:
-  - [X] UserPromptSubmit
-  - [X] PreToolUse
-  - [X] PostToolUse
-- [X] Destructive prompt test shows UserPromptSubmit blocked the request
-- [X] Terraform destroy command test shows PreToolUse intercepted the command
-- [X] Terraform validate test shows PostToolUse created the log entry
-- [X] All required screenshots are captured
-- [X] `.claude/settings.json` and `.claude/hooks/` files are committed and visible in the GitHub repository
+- [ ] `.claude` folder structure created correctly
+- [ ] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
+- [ ] `pre-tool-guard.sh` created with PreToolUse hook logic
+- [ ] `post-tool-logger.sh` created with PostToolUse logging logic
+- [ ] `settings.json` created with allow and deny permissions
+- [ ] `settings.json` configured to connect all three hooks:
+  - [ ] UserPromptSubmit
+  - [ ] PreToolUse
+  - [ ] PostToolUse
+- [ ] Destructive prompt test shows UserPromptSubmit blocked the request
+- [ ] Terraform destroy command test shows PreToolUse intercepted the command
+- [ ] Terraform validate test shows PostToolUse created the log entry
+- [ ] All required screenshots are captured
+- [ ] `.claude/settings.json` and `.claude/hooks/` files are committed and visible in the GitHub repository
 
 
