@@ -46,15 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-
+[Screenshot 1](./screenshots/assingment08_screenshot01.PNG)
 ---
 
 ### Submission Field
 
 Blog Link:
 
-`__________________________________________`
+`https://dev.to/charanteja_chavithina_b67/reflection-week-2-5c3l`
 
 ---
 
@@ -92,7 +91,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+[Screenshot 2](./screenshots/assingment08_screenshot02.PNG) 
 
 ---
 
@@ -101,14 +100,23 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of the DevOps Micro Internship with Agentic AI has completely changed the way I think about DevOps and AI.
+This week wasn't just about learning new tools—it was about adopting a new engineering mindset.
+From installing and configuring Claude Code to exploring Skills, Subagents, MCP, Hooks, Permissions, and Memory, every topic pushed me out of my comfort zone. The journey wasn't easy. I faced installation issues, configuration errors, authentication problems, and spent hours troubleshooting before getting everything to work. But every challenge taught me something valuable.
+One of the biggest takeaways for me was realizing that AI is no longer just a chatbot—it can become an engineering partner capable of automating workflows, generating infrastructure, remembering project context, and helping solve real-world DevOps problems.
+The hands-on assignments were the best part of this week. Instead of simply watching videos, we built, experimented, failed, debugged, and finally succeeded. Those practical exercises made every concept much easier to understand and gave me the confidence to continue exploring Agentic AI.
+I've also made a commitment to myself: every day after 9:00 PM, I dedicate time to practicing everything I learn during this internship. Consistent practice is helping me build real skills instead of just theoretical knowledge.
+A heartfelt thank you to Pravin Mishra, Anajana, and all the mentors for creating such an incredible learning experience. The real-time practical sessions, challenging assignments, and continuous guidance make this internship truly unique. Every week feels like another step toward becoming a better DevOps and AI engineer.
+🚀 Excited for the learning journey ahead!
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining DMI waiting list (https://lnkd.in/dEHab2iC).
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #AIEngineering #MCP #Automation #LearningInPublic #DevOpsMicroInternship
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmi-cohort-4-live-micro-internship-waiting-share-7483044478434586624-Azpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
 
 ---
 
@@ -124,15 +132,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [X] Blog written with required structure
+* [X] Blog includes at least 2–3 Week 2 topics
+* [X] Blog is publicly accessible
+* [X] LinkedIn post created
+* [X] Required P.S. line included
+* [X] LinkedIn post content copied in submission field
+* [X] Blog link added
+* [X] LinkedIn post link added
+* [X] Screenshots added to GitHub repo
 
 ---
 

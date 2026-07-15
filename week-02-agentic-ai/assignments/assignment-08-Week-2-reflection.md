@@ -230,13 +230,13 @@ Submit the GitHub Repo Link.
 
 Before submission, verify:
 
-* [ ] Reflection title is included
-* [ ] Full name is visible
-* [ ] Reflection is at least 300 words
-* [ ] All 6 required sections are answered
-* [ ] At least two Week 2 technical topics are mentioned
-* [ ] One exact habit/system is included
-* [ ] LinkedIn post is created
-* [ ] Required P.S. line is included in the LinkedIn post
-* [ ] LinkedIn post URL is added
-* [ ] Screenshot of LinkedIn post is added
+* [X] Reflection title is included
+* [X] Full name is visible
+* [X] Reflection is at least 300 words
+* [X] All 6 required sections are answered
+* [X] At least two Week 2 technical topics are mentioned
+* [X] One exact habit/system is included
+* [X] LinkedIn post is created
+* [X] Required P.S. line is included in the LinkedIn post
+* [X] LinkedIn post URL is added
+* [X] Screenshot of LinkedIn post is added
