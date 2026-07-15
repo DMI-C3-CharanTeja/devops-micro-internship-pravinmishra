@@ -20,7 +20,7 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/assingment06_screenshot01.PNG) 
 
 ---
 
@@ -34,7 +34,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 #### Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![Screenshot 2](./screenshots/assingment06_screenshot02.PNG) 
 
 ---
 
@@ -47,8 +47,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 ### Evidence
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
-
-Add your screenshot here.
+![Screenshot 3](./screenshots/assingment06_screenshot03.PNG) 
 
 ---
 
@@ -62,7 +61,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![Screenshot 4](./screenshots/assingment06_screenshot04.PNG) 
 
 ---
 
@@ -76,7 +75,7 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-Add your screenshot here.
+![Screenshot 5](./screenshots/assingment06_screenshot05.PNG) 
 
 ---
 
@@ -89,6 +88,7 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 ### Evidence
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+![Screenshot 6](./screenshots/assingment06_screenshot06.PNG) 
 
 ---
 
@@ -101,6 +101,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+![Screenshot 7](./screenshots/assingment06_screenshot07.PNG) 
 
 ---
 
@@ -112,9 +113,8 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 ### Evidence
 
-#### Screenshot 8 — Claude running terraform validate successfully
-
-#### Screenshot 9 — `.claude/deploy.log` showing the logged command
+![Screenshot 8](./screenshots/assingment06_screenshot08.PNG) 
+![Screenshot 9](./screenshots\/assingment06_screenshot09.PNG) 
 
 ---
 
@@ -129,19 +129,19 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] `.claude` folder structure created correctly
-- [ ] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
-- [ ] `pre-tool-guard.sh` created with PreToolUse hook logic
-- [ ] `post-tool-logger.sh` created with PostToolUse logging logic
-- [ ] `settings.json` created with allow and deny permissions
-- [ ] `settings.json` configured to connect all three hooks:
-  - [ ] UserPromptSubmit
-  - [ ] PreToolUse
-  - [ ] PostToolUse
-- [ ] Destructive prompt test shows UserPromptSubmit blocked the request
-- [ ] Terraform destroy command test shows PreToolUse intercepted the command
-- [ ] Terraform validate test shows PostToolUse created the log entry
-- [ ] All required screenshots are captured
+- [X] `.claude` folder structure created correctly
+- [X] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
+- [X] `pre-tool-guard.sh` created with PreToolUse hook logic
+- [X] `post-tool-logger.sh` created with PostToolUse logging logic
+- [X] `settings.json` created with allow and deny permissions
+- [X] `settings.json` configured to connect all three hooks:
+  - [X] UserPromptSubmit
+  - [X] PreToolUse
+  - [X] PostToolUse
+- [X] Destructive prompt test shows UserPromptSubmit blocked the request
+- [X] Terraform destroy command test shows PreToolUse intercepted the command
+- [X] Terraform validate test shows PostToolUse created the log entry
+- [X] All required screenshots are captured
 
 ---
 
