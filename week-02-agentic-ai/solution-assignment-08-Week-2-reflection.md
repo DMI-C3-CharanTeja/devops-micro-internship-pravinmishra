@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-[Screenshot 1](./screenshots/assingment08_screenshot01.PNG)
+![Screenshot 1](./screenshots/assingment08_screenshot01.PNG)
 ---
 
 ### Submission Field
@@ -91,7 +91,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-[Screenshot 2](./screenshots/assingment08_screenshot02.PNG) 
+![Screenshot 2](./screenshots/assingment08_screenshot02.PNG) 
 
 ---
 
