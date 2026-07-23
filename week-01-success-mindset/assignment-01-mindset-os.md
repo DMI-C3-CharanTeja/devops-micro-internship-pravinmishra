@@ -386,13 +386,13 @@ Choose books that improve:
 
 ## Book List
 
-The Site Reliability Workbook – Betsy Beyer, Niall Richard Murphy, David Rensin, Kent Kawahara & Stephen Thorne
-To gain practical strategies for improving reliability, incident management, and operational excellence.
-The Phoenix Project – Gene Kim, Kevin Behr & George Spafford
+![Screenshot01](./screenshots/assignment01_screenshot1.jpg)The Site Reliability Workbook – Betsy Beyer, Niall Richard Murphy, David Rensin, Kent Kawahara & Stephen Thorne
+![Screenshot01](./screenshots/assignment01_screenshot2.jpg) To gain practical strategies for improving reliability, incident management, and operational excellence.
+![Screenshot01](./screenshots/assignment01_screenshot3.jpg)The Phoenix Project – Gene Kim, Kevin Behr & George Spafford
 To deepen my understanding of DevOps culture, collaboration, and IT transformation.
-Accelerate – Nicole Forsgren, Jez Humble & Gene Kim
+![Screenshot01](./screenshots/assignment01_screenshot4.jpg) Accelerate – Nicole Forsgren, Jez Humble & Gene Kim
 To learn how high-performing engineering teams achieve faster delivery while maintaining reliability.
-The Manager's Path – Camille Fournier
+![Screenshot01](./screenshots/assignment01_screenshot5.jpg) The Manager's Path – Camille Fournier
 To strengthen my engineering management and leadership skills.
 Thinking, Fast and Slow – Daniel Kahneman
 To improve decision-making, problem-solving, and critical thinking.
