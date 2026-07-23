@@ -20,7 +20,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+
+![Screenshot01](./screenshots/assignment04-Screenshot01.PNG)
 
 ---
 
@@ -34,7 +35,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+
+![Screenshot02](./screenshots/assignment04-Screenshot02.PNG)
 
 ---
 
@@ -48,7 +50,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![Screenshot03](./screenshots/assignment04-Screenshot03.PNG)
 
 ---
 
@@ -62,13 +64,15 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+
+![Screenshot04](./screenshots/assignment04-Screenshot04.PNG)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+
+![Screenshot05](./screenshots/assignment04-Screenshot05.PNG)
 
 ---
 
@@ -82,13 +86,15 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+
+![Screenshot06](./screenshots/assignment04-Screenshot06.PNG)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+
+![Screenshot07](./screenshots/assignment04-Screenshot07.PNG)
 
 ---
 
@@ -102,13 +108,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+
+![Screenshot08](./screenshots/assignment04-Screenshot08.PNG)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+
+![Screenshot09](./screenshots/assignment04-Screenshot09.PNG)
 
 ---
 
@@ -120,13 +128,14 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_devops-aws-ec2-activity-7485349091841994755-EGnH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+
+![Screenshot10](./screenshots/assignment04-Screenshot10.PNG)
 
 ---
 
@@ -141,18 +150,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [X] Screenshot 0: Nginx service status (active/running)
+- [X] Screenshot 1: Website files downloaded and extracted
+- [X] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [X] Screenshot 3: Nginx configuration test successful
+- [X] Screenshot 4: Website files deployed to /var/www/html
+- [X] Screenshot 5: Public IP retrieved
+- [X] Screenshot 6: Live website accessible in browser with footer details
+- [X] Screenshot 7: Nginx enabled on boot
+- [X] Screenshot 8: Local HTTP response returns 200 OK
+- [X] LinkedIn post published and URL submitted
+- [X] Full Name visible in all required screenshots
+- [X] No sensitive data exposed
 
 ---
 
