@@ -95,7 +95,11 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7482893340523540480-WBPs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -103,7 +107,11 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
+<<<<<<< HEAD
 `https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

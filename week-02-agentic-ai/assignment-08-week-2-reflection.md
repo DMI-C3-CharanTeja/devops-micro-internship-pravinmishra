@@ -53,7 +53,11 @@ You can publish your blog on:
 
 Blog Link:
 
+<<<<<<< HEAD
 `https://dev.to/charanteja_chavithina_b67/reflection-week-2-5c3l`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -77,7 +81,7 @@ Your post must include:
 
 ### Required P.S. Line (Must Include Exactly)
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining [DMI waiting list](https://forms.gle/3hvrWJBDzsDeJoPs6) (https://forms.gle/3hvrWJBDzsDeJoPs6).**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 ---
 
@@ -116,7 +120,11 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmi-cohort-4-live-micro-internship-waiting-share-7483044478434586624-Azpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

@@ -510,7 +510,11 @@ Gather -> Analyze -> Human Act -> Verify
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7485930143786536960-v0Gc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -524,7 +528,11 @@ Paste your LinkedIn post URL here:
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
+<<<<<<< HEAD
 `https://github.com/DMI-C3-CharanTeja/devops-micro-internship-pravinmishra`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
