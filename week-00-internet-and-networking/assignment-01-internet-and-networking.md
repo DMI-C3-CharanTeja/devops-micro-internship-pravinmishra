@@ -222,9 +222,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg
-```
+'[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]'
 
 ---
 

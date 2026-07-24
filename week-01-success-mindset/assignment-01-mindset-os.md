@@ -321,11 +321,7 @@ The synergistic combination of my engineering knowledge, business insight, and u
 
 Paste your link here:
 
-<<<<<<< HEAD
-`https://dev.to/charanteja_chavithina_b67/about-my-self-20ki`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`[https://dev.to/charanteja_chavithina_b67/about-my-self-20ki]`
 
 ---
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -625,18 +621,14 @@ After each session, I will spend 10 minutes (9:00 PM – 9:10 PM) reviewing what
 
 Paste your LinkedIn post link here:
 
-<<<<<<< HEAD
-`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg__________________________`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg)**  
-- Blog / Medium : **[ADD LINK HERE](https://dev.to/charanteja_chavithina_b67/about-my-self-20ki)**  
+- LinkedIn Post URL: **[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
+- Blog / Medium : [https://dev.to/charanteja_chavithina_b67/about-my-self-20ki]
 
 ---
 
