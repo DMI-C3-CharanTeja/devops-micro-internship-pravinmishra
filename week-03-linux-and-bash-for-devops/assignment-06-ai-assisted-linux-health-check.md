@@ -510,10 +510,7 @@ Gather -> Analyze -> Human Act -> Verify
 
 Paste your LinkedIn post URL here:
 
-
-
-`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7485930143786536960-v0Gc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
-
+`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7485930143786536960-v0Gc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
 
 ---
 
