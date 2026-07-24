@@ -95,11 +95,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-<<<<<<< HEAD
-`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7482893340523540480-WBPs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+[`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7482893340523540480-WBPs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`]
 
 ---
 
@@ -107,11 +103,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD
-`https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`[https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git]`
 
 ---
 
@@ -122,7 +114,7 @@ Paste your forked repository URL here:
 - [X] `MEMORY.md` shows stored content (Screenshot 3)
 - [X] Fresh session opened after full restart (Screenshot 4)
 - [X] Claude recalled hero colors correctly (Screenshot 5)
-- [X  Claude refused JavaScript request based on memory (Screenshot 6)
+- [X]  Claude refused JavaScript request based on memory (Screenshot 6)
 - [X] All screenshots added and committed to GitHub repo
 - [X] Linkedin post created.
 
