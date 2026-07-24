@@ -90,13 +90,13 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 Paste your forked repository URL here:
 
-[`https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`]
+[https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git]
 
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
 
-[`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7481369088477372417-zDs8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`]
+[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-claudecode-share-7481369088477372417-zDs8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
 ---
 
 # Completion Checklist

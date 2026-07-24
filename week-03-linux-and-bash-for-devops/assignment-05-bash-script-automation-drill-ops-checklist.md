@@ -507,7 +507,7 @@ called in the correct order to run the complete automation script
 
 Paste your LinkedIn post URL here:
 
-`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-devops-git-share-7485634882342395904-EsxN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
+[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-devops-git-share-7485634882342395904-EsxN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
 
 ---
 

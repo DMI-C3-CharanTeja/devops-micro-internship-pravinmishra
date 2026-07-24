@@ -110,7 +110,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-`https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`
+[https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git]
 
 ---
 

@@ -116,7 +116,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
-[`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmi-cohort-4-live-micro-internship-waiting-share-7483044478434586624-Azpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`]
+[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmi-cohort-4-live-micro-internship-waiting-share-7483044478434586624-Azpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
 
 ---
 

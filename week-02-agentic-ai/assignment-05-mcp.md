@@ -94,7 +94,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 Paste your forked repository URL here:
 
-`https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git`
+[https://github.com/DMI-C3-CharanTeja/Ultimate-Agentic-DevOps-with-Claude-Code.git]
 
 ---
 
@@ -102,8 +102,8 @@ Paste your forked repository URL here:
 
 Confirm below:
 
-- [X ] `settings.local.json` is added to `.gitignore`
-- [X ] GitHub token is NOT exposed in repository or screenshots
+- [X] `settings.local.json` is added to `.gitignore`
+- [X] GitHub token is NOT exposed in repository or screenshots
 
 ---
 

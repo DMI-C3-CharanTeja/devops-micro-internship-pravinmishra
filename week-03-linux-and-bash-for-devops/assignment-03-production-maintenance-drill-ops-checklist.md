@@ -454,7 +454,7 @@ By terminating or stopping unused cloud resources, organizations improve cost ef
 
 Paste your LinkedIn post URL here:
 
-`https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-devops-agenticai-activity-7484537933627023360-UwCg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg`
+[https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-devops-agenticai-activity-7484537933627023360-UwCg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg]
 
 ---
 

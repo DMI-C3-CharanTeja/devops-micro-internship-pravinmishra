@@ -524,11 +524,7 @@ Paste your LinkedIn post URL here:
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-<<<<<<< HEAD
-`https://github.com/DMI-C3-CharanTeja/devops-micro-internship-pravinmishra`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+[https://github.com/DMI-C3-CharanTeja/devops-micro-internship-pravinmishra]
 
 ---
 
