@@ -21,7 +21,6 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
 
-Add your screenshot here.
 ![Screenshot01](./screenshots/assignment02-Screenshot01.PNG)
 ---
 
@@ -35,7 +34,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+
 ![Screenshot02](./screenshots/assignment02-screenshot02.PNG)
 ---
 
@@ -49,7 +48,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+
 ![Screenshot03](./screenshots/assignment02-screenshot03.PNG)
 ---
 
@@ -63,7 +62,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
+
 ![Screenshot04](./screenshots/assignment02-Screenshot04.PNG)
 
 ---
@@ -78,7 +77,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
+
 ![Screenshot05](./screenshots/assignment02-Screenshot05.PNG)
 
 ---
@@ -93,7 +92,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+
 ![Screenshot06](./screenshots/assignment02-Screenshot06.PNG)
 
 ---
