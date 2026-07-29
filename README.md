@@ -82,8 +82,8 @@ Week 01 → Success Mindset
  Week 04 → Git & GitHub 
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+ Week 05 → DevOps Lifecycle & Agile 
+ [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -134,7 +134,7 @@ Week 01 → Success Mindset
 | 01 | Success Mindset |✅ Completed | ✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_join-the-dmi-devops-micro-internship-share-7478878145140674560-7Jf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg | https://dev.to/charanteja_chavithina_b67/about-my-self-20ki |
 | 02 | Agentic AI with Claude Code | ✅ Completed |✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmi-cohort-4-live-micro-internship-waiting-share-7483044478434586624-Azpj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg` | https://dev.to/charanteja_chavithina_b67/reflection-week-2-5c3l | 
 | 03 | Linux & Bash for DevOps | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7485930143786536960-v0Gc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg |https://dev.to/charanteja_chavithina_b67/week-3-devops-journey-aws-linux-nginx-bash-4g1n |
-| 04 | Git & GitHub | ✅ Completed  | ✅ Solved | — | — |
+| 04 | Git & GitHub | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7488211489624080384-9Jwz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg | https://dev.to/charanteja_chavithina_b67/from-git-hooks-to-ai-code-reviews-building-secure-code-with-devsecops-and-agentic-ai-1m9 |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
