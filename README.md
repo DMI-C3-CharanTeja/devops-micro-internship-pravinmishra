@@ -85,11 +85,11 @@ Week 04 → Git & GitHub
  Week 05 → DevOps Lifecycle & Agile 
  [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+ Week 06 → AWS Cloud 
+[![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+ Week 07 → Azure Cloud 
+[![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/)
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -136,8 +136,8 @@ Week 04 → Git & GitHub
 | 03 | Linux & Bash for DevOps | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7485930143786536960-v0Gc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg |https://dev.to/charanteja_chavithina_b67/week-3-devops-journey-aws-linux-nginx-bash-4g1n |
 | 04 | Git & GitHub | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/charanteja-chavithina-7503aa25a_dmibypravinmishra-agenticai-devops-activity-7488211489624080384-9Jwz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_GNawBqypXzEm7uRwAtjIXUFi95VCH6dg | https://dev.to/charanteja_chavithina_b67/from-git-hooks-to-ai-code-reviews-building-secure-code-with-devsecops-and-agentic-ai-1m9 |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed  | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:share:7495491557710532609/ | https://dev.to/charanteja_chavithina_b67/jira-setup-to-real-world-devops-delivery-9i8 |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | 🔄 In Progress  | 🔄 In Progress  | — | — |
+| 07 | Azure Cloud | 🔄 In Progress | 🔄 In Progress | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
