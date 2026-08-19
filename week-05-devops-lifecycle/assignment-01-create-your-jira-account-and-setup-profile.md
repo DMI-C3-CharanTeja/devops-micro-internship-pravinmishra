@@ -20,8 +20,6 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 #### Screenshot 1 — Jira welcome page, dashboard, or main workspace after successful login, with your name or avatar visible
 
-Add your screenshot here.
-
 ![Screenshot01](./screenshots/assignment_screenshot01.PNG)
 
 # Task 2 — Verify Your Atlassian Account
@@ -41,10 +39,7 @@ Confirm your email address if Atlassian requests verification.
 
 If you signed up with Google and no separate email verification was required, include the following statement instead of Screenshot 2:
 
-> I signed up using Google, and Atlassian did not require separate email verification.
-
 I signed up using Google, and Atlassian did not require separate email verification.
-
 Email verification screenshot added.
 
 ---
