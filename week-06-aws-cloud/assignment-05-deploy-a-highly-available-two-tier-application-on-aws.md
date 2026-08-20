@@ -226,19 +226,19 @@ Add your screenshot here.
 
 Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+The VPC spans two Availability Zones to support high availability. Each Availability Zone contains its own subnet(s), allowing resources such as EC2 instances to be distributed across zones. The subnets provide network segmentation between the web/application tier and the database tier, improving availability, isolation, and security.
 
 Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+The Application Load Balancer (ALB) is internet-facing and distributes incoming HTTP traffic across the EC2 instances registered in its target group. The Auto Scaling Group (ASG) uses the Launch Template to provision and manage EC2 instances across the two Availability Zones, helping maintain the required capacity and replace unhealthy instances automatically.
 
 Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+The RDS database is deployed in private subnets across multiple Availability Zones, keeping it inaccessible directly from the internet while providing Multi-AZ availability and failover. The application EC2 instances in the web tier communicate with the RDS database through the VPC and appropriate security-group rules.
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+Both high-availability tests were successful. The first test confirmed that traffic continued to be served when an EC2 instance became unavailable, while the second confirmed that the Auto Scaling Group could replace the failed instance and restore the desired capacity. This demonstrated that the application could maintain availability during an instance failure.
 
 ---
 
@@ -273,17 +273,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: VPC, four subnets, IGW, NAT Gateway, and route tables created (Screenshots 1–5)
-- [ ] Task 2: Least-privilege ALB, EC2, and RDS security groups created (Screenshots 6–8)
-- [ ] Task 3: Private Multi-AZ RDS created (Screenshots 9–10)
-- [ ] Task 4: Self-configuring Launch Template created and tested (Screenshots 11–12)
-- [ ] Task 5: ALB created across both public subnets (Screenshots 13–14)
-- [ ] Task 6: Auto Scaling Group running two instances across two AZs (Screenshots 15–16)
-- [ ] Task 7: Application verified through the ALB with a database read and write (Screenshots 17–18)
-- [ ] Task 8: Both high-availability tests completed (Screenshots 19–22)
-- [ ] Task 9: Architecture and test-results summary completed (Screenshot 23 & Notes)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [X] Task 1: VPC, four subnets, IGW, NAT Gateway, and route tables created (Screenshots 1–5)
+- [X] Task 2: Least-privilege ALB, EC2, and RDS security groups created (Screenshots 6–8)
+- [X] Task 3: Private Multi-AZ RDS created (Screenshots 9–10)
+- [X] Task 4: Self-configuring Launch Template created and tested (Screenshots 11–12)
+- [X] Task 5: ALB created across both public subnets (Screenshots 13–14)
+- [X] Task 6: Auto Scaling Group running two instances across two AZs (Screenshots 15–16)
+- [X] Task 7: Application verified through the ALB with a database read and write (Screenshots 17–18)
+- [X] Task 8: Both high-availability tests completed (Screenshots 19–22)
+- [X] Task 9: Architecture and test-results summary completed (Screenshot 23 & Notes)
+- [X] LinkedIn post published and URL submitted
+- [X] No sensitive data exposed
 
 ---
 

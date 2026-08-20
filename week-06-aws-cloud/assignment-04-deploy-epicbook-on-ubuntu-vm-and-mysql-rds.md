@@ -217,16 +217,16 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
-- [ ] Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
-- [ ] Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
-- [ ] Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
-- [ ] Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
-- [ ] Task 6: Database initialized from the SQL dump (Screenshot 13)
-- [ ] Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
-- [ ] Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
-- [ ] Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
-- [ ] No sensitive data exposed
+- [X] Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
+- [X] Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
+- [X] Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
+- [X] Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
+- [X] Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
+- [X] Task 6: Database initialized from the SQL dump (Screenshot 13)
+- [X] Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
+- [X] Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
+- [X] Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
+- [X] No sensitive data exposed
 
 ---
 
